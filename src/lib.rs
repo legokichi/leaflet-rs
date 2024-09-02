@@ -43,6 +43,7 @@ pub use icon::{Icon, IconOptions};
 pub use lat_lng::LatLng;
 pub use lat_lng_bounds::LatLngBounds;
 pub use layer::{Layer, LayerOptions};
+pub use layer_control::{LayerControl};
 pub use layer_group::LayerGroup;
 pub use map::{
     DragEndEvent, ErrorEvent, LocateOptions, LocationEvent, Map, MapOptions, MouseEvent,
