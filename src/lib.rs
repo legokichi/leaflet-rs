@@ -25,7 +25,7 @@ mod util;
 use js_sys::Array;
 use paste::paste;
 
-pub use control::{Control, ControlOptions, Zoom, ZoomOptions};
+pub use control::{Control, ControlOptions, Zoom, ZoomOptions, LayersControl};
 pub use crs::Crs;
 pub use div_icon::{DivIcon, DivIconOptions};
 pub use div_overlay::DivOverlay;
